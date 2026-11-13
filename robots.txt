@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solusegmex.com/sitemap.xml
